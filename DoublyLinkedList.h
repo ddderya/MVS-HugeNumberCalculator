@@ -1,5 +1,6 @@
 #ifndef DOUBLY_LINKED_LIST
 #define DOUBLY_LINKED_LIST
+#define 9
 
 typedef unsigned short Digit;
 
