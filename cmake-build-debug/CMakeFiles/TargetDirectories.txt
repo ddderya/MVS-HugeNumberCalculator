@@ -1,0 +1,3 @@
+/Users/bennaiiness/CLionProject/MVS-HugeNumberCalculator1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/bennaiiness/CLionProject/MVS-HugeNumberCalculator1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bennaiiness/CLionProject/MVS-HugeNumberCalculator1/cmake-build-debug/CMakeFiles/MVS_HugeNumberCalculator1.dir
